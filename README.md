@@ -1,1 +1,0 @@
-# TemperatureConverterJavaSwift in Gradle
